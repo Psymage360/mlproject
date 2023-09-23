@@ -1,7 +1,12 @@
 
 # ML Project Setup Template
 
-A brief description of what this project does?
+1. Data Ingestion
+2. Data Transformation
+3. Model Trainer
+4. Model Evaluation
+5. Model Deployment
 
-Even I have to figure that out...
+CI/CD Pipelines using Github Actions
+Deployment - AWS
 
